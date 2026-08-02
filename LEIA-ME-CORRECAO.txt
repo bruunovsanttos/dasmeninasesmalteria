@@ -1,0 +1,12 @@
+CORREÇÃO DO CARD DE COMPARTILHAMENTO
+
+1. Apague ou substitua os arquivos atuais da raiz do repositório.
+2. Envie todos os arquivos desta pasta para a raiz do repositório dasmeninasesmalteria.
+3. Confirme que estes endereços abrem no navegador:
+   https://bruunovsanttos.github.io/dasmeninasesmalteria/
+   https://bruunovsanttos.github.io/dasmeninasesmalteria/og-image-v2.jpg
+4. Aguarde o GitHub Pages concluir o deploy.
+5. Para forçar um novo card no WhatsApp, compartilhe uma vez:
+   https://bruunovsanttos.github.io/dasmeninasesmalteria/?v=2
+
+O problema anterior era que og:image e twitter:image apontavam para a página inicial, não para o arquivo JPG.
