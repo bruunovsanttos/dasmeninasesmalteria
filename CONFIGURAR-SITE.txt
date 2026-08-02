@@ -1,0 +1,40 @@
+CONFIGURAÇÃO DO SITE — DAS MENINAS ESMALTERIA
+
+1. Extraia todos os arquivos desta pasta.
+2. Cole TODOS os arquivos na raiz do seu projeto/repositório:
+   - index.html
+   - favicon.ico
+   - favicon.png
+   - apple-touch-icon.png
+   - og-image.jpg
+
+3. Abra o arquivo index.html no editor.
+4. Use Ctrl + H e substitua todas as ocorrências de:
+
+   https://SEU-LINK-DO-SITE.com.br/
+
+   pelo endereço completo do site publicado, sempre terminando com /.
+
+Exemplos:
+
+Domínio próprio:
+https://dasmeninas.com.br/
+
+GitHub Pages:
+https://seuusuario.github.io/nome-do-repositorio/
+
+5. Salve o index.html e publique os arquivos.
+
+IMPORTANTE
+- Não altere o nome do arquivo og-image.jpg.
+- Mantenha os favicons e a imagem og-image.jpg na mesma pasta do index.html.
+- O arquivo og-image.jpg será usado no card ao compartilhar o link no WhatsApp, Facebook e LinkedIn.
+- Depois da publicação, aplicativos podem demorar para atualizar a imagem por causa do cache.
+
+CONTEÚDO DESTA VERSÃO
+- Seção de serviços organizada em quatro cards com imagens.
+- Seção de autocuidado com quatro cards de mesmo tamanho e fotos.
+- Horários de terça a sábado, das 09:00 às 18:00.
+- Domingo e segunda-feira fechados.
+- Selo “Atendimento completo” removido do hero.
+- Favicon, Apple Touch Icon, Open Graph e Twitter Card incluídos.
